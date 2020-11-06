@@ -1,0 +1,10 @@
+site_name: 'Test service template'
+site_description: 'Main documentation for the service called test service template'
+
+nav:
+  - Overview:
+    - Running: 'RUNNING.md'
+    - Testing: 'TESTING.md'
+
+plugins:
+  - techdocs-core
